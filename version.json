@@ -1,0 +1,7 @@
+{
+  "appName": "Vanta TV",
+  "versionName": "0.1.0",
+  "versionCode": 1,
+  "apk": "vanta-tv.apk",
+  "androidTvOnly": true
+}
