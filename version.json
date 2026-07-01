@@ -1,7 +1,8 @@
 {
   "appName": "Vanta TV",
-  "versionName": "0.1.0",
-  "versionCode": 1,
-  "apk": "vanta-tv.apk",
+  "versionCode": 15,
+  "versionName": "0.3.1",
+  "apkUrl": "https://nawak3386.github.io/vanta-tv/vanta-tv.apk",
+  "changelog": "Finition Android TV, mise a jour APK, cache local, EPG, pagination et ameliorations de navigation.",
   "androidTvOnly": true
 }
