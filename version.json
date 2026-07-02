@@ -1,8 +1,9 @@
-{
+﻿{
   "appName": "Vanta TV",
-  "versionCode": 15,
-  "versionName": "0.3.1",
+  "versionCode": 16,
+  "versionName": "0.3.2",
   "apkUrl": "https://nawak3386.github.io/vanta-tv/vanta-tv.apk",
-  "changelog": "Finition Android TV, mise a jour APK, cache local, EPG, pagination et ameliorations de navigation.",
+  "changelog": "Theme bleu, chargement Xtream accelere, bouton mise a jour playlist, series chargees a la demande et interface allegee.",
   "androidTvOnly": true
 }
+
