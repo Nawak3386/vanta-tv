@@ -1,4 +1,4 @@
-﻿<!doctype html>
+<!doctype html>
 <html lang="fr">
 <head>
   <meta charset="utf-8">
@@ -35,7 +35,27 @@
     }
 
     .wrap {
+      position: relative;
       width: min(760px, 100%);
+      isolation: isolate;
+    }
+
+    .wrap > :not(.logo) {
+      position: relative;
+      z-index: 1;
+    }
+
+    .logo {
+      position: absolute;
+      z-index: 0;
+      left: 50%;
+      top: 50%;
+      width: min(620px, 88vw);
+      height: auto;
+      opacity: 0.16;
+      transform: translate(-50%, -50%);
+      pointer-events: none;
+      filter: saturate(1.15);
     }
 
     .brand {
@@ -130,6 +150,10 @@
   </main>
 </body>
 </html>
+
+
+
+
 
 
 
