@@ -40,21 +40,23 @@
       isolation: isolate;
     }
 
-    .wrap > :not(.logo) {
+    .wrap > * {
       position: relative;
       z-index: 1;
     }
 
-    .logo {
+    .wrap::before {
+      content: "";
       position: absolute;
       z-index: 0;
       left: 50%;
       top: 50%;
-      width: min(620px, 88vw);
-      height: auto;
-      opacity: 0.16;
+      width: min(680px, 92vw);
+      aspect-ratio: 1;
+      opacity: 0.13;
       transform: translate(-50%, -50%);
       pointer-events: none;
+      background: url("./vanta-watermark.png?v=4") center / contain no-repeat;
       filter: saturate(1.15);
     }
 
@@ -129,7 +131,6 @@
 <body>
   <main>
     <div class="wrap">
-      <img class="logo" src="./vanta-logo.png" alt="Logo VANTA-TV">
       <div class="brand">VANTA-TV</div>
       <h1>Lecteur IPTV pour Android TV</h1>
       <p>Telecharge l'APK Android TV. VANTA-TV est un lecteur IPTV: aucun flux, film, serie, chaine TV ou replay n'est fourni par l'application.</p>
