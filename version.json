@@ -1,11 +1,12 @@
 ﻿{
   "appName": "VANTA-TV",
-  "versionCode": 18,
-  "versionName": "0.3.4",
+  "versionCode": 19,
+  "versionName": "0.3.5",
   "apkUrl": "https://nawak3386.github.io/vanta-tv/vanta-tv.apk",
-  "changelog": "Refonte interface premium: accueil en rails, header VANTA-TV, navigation basse, TV/EPG modernise, sources et reglages en cartes.",
+  "changelog": "Correctif ouverture app: refonte premium stabilisee, accueil en rails, navigation basse, TV/EPG, sources et reglages modernises.",
   "androidTvOnly": true
 }
+
 
 
 
