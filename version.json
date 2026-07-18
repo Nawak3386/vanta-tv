@@ -1,9 +1,8 @@
 ﻿{
   "appName": "VANTA-TV",
-  "versionCode": 22,
-  "versionName": "0.3.8",
-  "apkUrl": "https://nawak3386.github.io/vanta-tv/vanta-tv.apk?v=0.3.8",
-  "changelog": "Mise a jour complete: refonte interface branchee, menu lateral supprime, navigation basse moderne, pop-up de mise a jour focusable, telechargement interne de l APK sans Downloader.",
+  "versionCode": 24,
+  "versionName": "0.4.0",
+  "apkUrl": "https://nawak3386.github.io/vanta-tv/vanta-tv.apk?v=0.4.0",
+  "changelog": "Refonte TV: menu lateral premium, focus clair telecommande, accueil en rangees, cache local conserve, actualisation quotidienne non bloquante et confirmation de sortie.",
   "androidTvOnly": true
 }
-
