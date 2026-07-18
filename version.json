@@ -1,8 +1,8 @@
 {
   "appName": "VANTA-TV",
-  "versionCode": 30,
-  "versionName": "0.4.6",
-  "apkUrl": "https://nawak3386.github.io/vanta-tv/vanta-tv.apk?v=0.4.6",
-  "changelog": "Correctif stabilite lecteur: suppression du moteur VLC natif instable, sortie video TextureView anti-ecran blanc, conservation des corrections series, categories et performances.",
+  "versionCode": 31,
+  "versionName": "0.4.7",
+  "apkUrl": "https://nawak3386.github.io/vanta-tv/vanta-tv.apk?v=0.4.7",
+  "changelog": "Lecteur plein ecran: surcouche temporaire, zapping TV Haut/Bas, OK pour EPG et commandes, Lecture/Pause et avance/retour 10 s sur films et series.",
   "androidTvOnly": true
 }
