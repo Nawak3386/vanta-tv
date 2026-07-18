@@ -1,8 +1,8 @@
 {
   "appName": "VANTA-TV",
-  "versionCode": 28,
-  "versionName": "0.4.4",
-  "apkUrl": "https://nawak3386.github.io/vanta-tv/vanta-tv.apk?v=0.4.4",
-  "changelog": "Correction urgente lecture TV: fallback TS/HLS reel, type video auto, entetes IPTV compatibles, temporisations renforcees et erreur de lecture visible.",
+  "versionCode": 29,
+  "versionName": "0.4.5",
+  "apkUrl": "https://nawak3386.github.io/vanta-tv/vanta-tv.apk?v=0.4.5",
+  "changelog": "Nouveau moteur LibVLC integre pour corriger l'image blanche avec son, secours logiciel video et navigation instantanee sur les grandes playlists.",
   "androidTvOnly": true
 }
