@@ -1,8 +1,8 @@
-﻿{
-    "appName":  "VANTA-TV",
-    "versionCode":  25,
-    "versionName":  "0.4.1",
-    "apkUrl":  "https://nawak3386.github.io/vanta-tv/vanta-tv.apk?v=0.4.1",
-    "changelog":  "Correction player TV, compatibilite Xtream live, categories lisibles, popup fermeture pilotable a la telecommande, surlignage clair des boutons.",
-    "androidTvOnly":  true
+{
+  "appName": "VANTA-TV",
+  "versionCode": 26,
+  "versionName": "0.4.2",
+  "apkUrl": "https://nawak3386.github.io/vanta-tv/vanta-tv.apk?v=0.4.2",
+  "changelog": "Correction fonctionnelle: lecture directe films/replay/TV, suppression des apercus fake, categories Xtream lisibles, ancien cache numerique neutralise, resynchronisation forcee apres mise a jour.",
+  "androidTvOnly": true
 }
