@@ -1,8 +1,8 @@
 {
   "appName": "VANTA-TV",
-  "versionCode": 37,
-  "versionName": "0.5.3",
-  "apkUrl": "https://nawak3386.github.io/vanta-tv/vanta-tv.apk?v=0.5.3",
-  "changelog": "Correction definitive du focus: le rail TV, Films et Series cible directement la premiere categorie, puis le bouton Changer de categorie dans un catalogue ouvert. Recherche stabilisee hors du thread principal.",
+  "versionCode": 38,
+  "versionName": "0.5.4",
+  "apkUrl": "https://nawak3386.github.io/vanta-tv/vanta-tv.apk?v=0.5.4",
+  "changelog": "Appui long OK fiabilise par minuteur pour ajouter ou retirer films et series des favoris. Ajout d'un bouton Favori dans les fiches Films et Series.",
   "androidTvOnly": true
 }
