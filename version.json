@@ -1,8 +1,8 @@
 {
   "appName": "VANTA-TV",
-  "versionCode": 32,
-  "versionName": "0.4.8",
-  "apkUrl": "https://nawak3386.github.io/vanta-tv/vanta-tv.apk?v=0.4.8",
-  "changelog": "Series: grille TV 4 colonnes, en-tete defilant, saisons et episodes au D-pad, restauration du focus. Favoris separes TV/Films/Series avec appui long sur OK. Replay Xtream base sur les vraies archives datees.",
+  "versionCode": 33,
+  "versionName": "0.4.9",
+  "apkUrl": "https://nawak3386.github.io/vanta-tv/vanta-tv.apk?v=0.4.9",
+  "changelog": "Veille bloquee uniquement pendant la lecture. Demarrage cache-first et actualisation automatique unique par jour/source. Navigation rail corrigee, favoris par appui long fiable, controles Reculer/Lecture/Avancer et menus Audio/Sous-titres/Vitesse. Diagnostic HTTP et retry temporaire controle.",
   "androidTvOnly": true
 }
