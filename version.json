@@ -1,8 +1,8 @@
 {
   "appName": "VANTA-TV",
-  "versionCode": 34,
-  "versionName": "0.5.0",
-  "apkUrl": "https://nawak3386.github.io/vanta-tv/vanta-tv.apk?v=0.5.0",
-  "changelog": "Recherche multi-versions: tous les films et series du meme titre sont conserves, titres normalises sans tags VF/qualite, versions francaises prioritaires puis classement 4K/FHD/HD/SD. Inclut aussi les corrections lecteur, veille, favoris, navigation et synchronisation quotidienne de la 0.4.9.",
+  "versionCode": 35,
+  "versionName": "0.5.1",
+  "apkUrl": "https://nawak3386.github.io/vanta-tv/vanta-tv.apk?v=0.5.1",
+  "changelog": "Navigation TV corrigee: la fleche droite quitte maintenant le rail vers le premier bouton de la page. Le demarrage reste utilisable pendant la synchronisation en arriere-plan. Nouvelle icone VANTA-TV redimensionnee dans la zone de securite du Launcher.",
   "androidTvOnly": true
 }
