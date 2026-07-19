@@ -1,8 +1,8 @@
 {
   "appName": "VANTA-TV",
-  "versionCode": 33,
-  "versionName": "0.4.9",
-  "apkUrl": "https://nawak3386.github.io/vanta-tv/vanta-tv.apk?v=0.4.9",
-  "changelog": "Veille bloquee uniquement pendant la lecture. Demarrage cache-first et actualisation automatique unique par jour/source. Navigation rail corrigee, favoris par appui long fiable, controles Reculer/Lecture/Avancer et menus Audio/Sous-titres/Vitesse. Diagnostic HTTP et retry temporaire controle.",
+  "versionCode": 34,
+  "versionName": "0.5.0",
+  "apkUrl": "https://nawak3386.github.io/vanta-tv/vanta-tv.apk?v=0.5.0",
+  "changelog": "Recherche multi-versions: tous les films et series du meme titre sont conserves, titres normalises sans tags VF/qualite, versions francaises prioritaires puis classement 4K/FHD/HD/SD. Inclut aussi les corrections lecteur, veille, favoris, navigation et synchronisation quotidienne de la 0.4.9.",
   "androidTvOnly": true
 }
