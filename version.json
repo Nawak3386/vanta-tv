@@ -1,8 +1,8 @@
 {
   "appName": "VANTA-TV",
-  "versionCode": 36,
-  "versionName": "0.5.2",
-  "apkUrl": "https://nawak3386.github.io/vanta-tv/vanta-tv.apk?v=0.5.2",
-  "changelog": "Sortie automatique et fiable du rail vers TV, Films et Series. Recherche stabilisee hors du thread principal avec catalogue memorise et resultats limites. Inclut la nouvelle icone Launcher VANTA-TV.",
+  "versionCode": 37,
+  "versionName": "0.5.3",
+  "apkUrl": "https://nawak3386.github.io/vanta-tv/vanta-tv.apk?v=0.5.3",
+  "changelog": "Correction definitive du focus: le rail TV, Films et Series cible directement la premiere categorie, puis le bouton Changer de categorie dans un catalogue ouvert. Recherche stabilisee hors du thread principal.",
   "androidTvOnly": true
 }
