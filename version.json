@@ -1,8 +1,8 @@
 {
   "appName": "VANTA-TV",
-  "versionCode": 35,
-  "versionName": "0.5.1",
-  "apkUrl": "https://nawak3386.github.io/vanta-tv/vanta-tv.apk?v=0.5.1",
-  "changelog": "Navigation TV corrigee: la fleche droite quitte maintenant le rail vers le premier bouton de la page. Le demarrage reste utilisable pendant la synchronisation en arriere-plan. Nouvelle icone VANTA-TV redimensionnee dans la zone de securite du Launcher.",
+  "versionCode": 36,
+  "versionName": "0.5.2",
+  "apkUrl": "https://nawak3386.github.io/vanta-tv/vanta-tv.apk?v=0.5.2",
+  "changelog": "Sortie automatique et fiable du rail vers TV, Films et Series. Recherche stabilisee hors du thread principal avec catalogue memorise et resultats limites. Inclut la nouvelle icone Launcher VANTA-TV.",
   "androidTvOnly": true
 }
